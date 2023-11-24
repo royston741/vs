@@ -1,0 +1,5 @@
+"vehicle_id";"img_url";"vehicle_name";"price";"rating";"two_wheeler_type";"vehicle_type"
+1;"https://imgd-ct.aeplcdn.com/664x415/cw/ec/23766/Ford-Mustang-Left-Front-Three-Quarter-74324.jpg?v=201711021421&q=80";"Ford Mustang GT";20000.0;4.5;"";"CAR"
+2;"sports-bike1-image-url";"Yamaha YZF R1";2000000.0;4.5;"SPORTS";"BIKE"
+3;"sports-bike2-image-url";"Kawasaki Ninja ZX-10R";1900000.0;4.6;"SPORTS";"BIKE"
+4;"image";"Honda Dio";70000.0;4.3;"SCOOTY";"BIKE"
